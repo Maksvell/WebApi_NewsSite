@@ -13,13 +13,18 @@ public class NewsMapper(IUnitOfWork unit) : INewsMapper
     {
         var authorName = await _unit.AuthorRepository.GetById(news.AuthorId);
         var rubricName = await _unit.RubricRepository.GetById(news.RubricId);
+        var tags = new List<Tag>();
+        foreach(NewsWithTag nwt in _unit.NewsWithTagRepository.GetByNewsId(news.Id))
+        {
+            tags.Add(await _unit.TagRepository.GetById(nwt.TagId));
+        }
 
         return new NewsDTO()
         {
             Id = news.Id,
             Title = news.Title,
             Body = news.Body,
-            Tags = MapTagsToDTO(news.Tags),
+            Tags = MapTagsToDTO(tags),
             Date = news.Date,
             AuthorName = authorName.Name,
             RubricName = rubricName.Name

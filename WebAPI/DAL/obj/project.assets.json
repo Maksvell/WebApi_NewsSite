@@ -4021,11 +4021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\DAL\\DAL.csproj",
+      "projectUniqueName": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\DAL\\DAL.csproj",
+      "projectPath": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\ivax2\\.nuget\\packages\\",
-      "outputPath": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\DAL\\obj\\",
+      "outputPath": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivax2\\AppData\\Roaming\\NuGet\\NuGet.Config",

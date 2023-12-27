@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UnitTests
-build_property.ProjectDir = E:\kpi\.NET_web\dotNET_WEB_lab3-4-lab4\WebAPI\UnitTests\
+build_property.ProjectDir = E:\kpi\.NET_web\WebApi_NewsSite\WebAPI\UnitTests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B0Q/LqixV1k4UYTLqFvlzdjFYb1NmxxCkiV38k/LM1xYFU4VV10P/XdC+6vX8b0h7xOnnhPmPOm17UujTR+hGA==",
+  "dgSpecHash": "iRFezIMV6kieSBgniZmdSg645rMJUWblqHcQTwy1QEXpPkhkYBAFz5UFf1RuKflnAEJ3nqB4g7GOT0IQaUzxaw==",
   "success": true,
-  "projectFilePath": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\BLL\\BLL.csproj",
+  "projectFilePath": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivax2\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ivax2\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

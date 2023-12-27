@@ -32,7 +32,7 @@ public class NewsController(INewsService newsService) : Controller
         }
     }
 
-    [HttpGet("/by-author/{id}")]
+    [HttpGet("by-author/{id}")]
     public async Task<IActionResult> GetAllByAuthor(int id)
     {
         try
@@ -46,7 +46,7 @@ public class NewsController(INewsService newsService) : Controller
         }
     }
 
-    [HttpGet("/by-rubric/{id}")]
+    [HttpGet("by-rubric/{id}")]
     public async Task<IActionResult> GetAllByRubric(int id)
     {
         try
@@ -60,7 +60,7 @@ public class NewsController(INewsService newsService) : Controller
         }
     }
 
-    [HttpGet("/by-tag/{id}")]
+    [HttpGet("by-tag/{id}")]
     public async Task<IActionResult> GetAllByTag(int id)
     {
         try

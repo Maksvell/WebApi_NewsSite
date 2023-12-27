@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LZQ9qw92KybVjZk11yfnoUCwylrKCq2tungh673ra7MjHtvwcie1dbR34+FeNbP95Gq7aceSsRZgHUUtE1ZrUA==",
+  "dgSpecHash": "XoIghNoh/s0NsGYEKAlBA2YnkR1qNB7CplL68HwwDm7lc/WlFTPnTRbH9tQfSSgktTQvYpFnFB/jPXPGXBGi9w==",
   "success": true,
-  "projectFilePath": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\DAL\\DAL.csproj",
+  "projectFilePath": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivax2\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ivax2\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

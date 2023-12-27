@@ -3603,11 +3603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\UnitTests\\UnitTests.csproj",
+      "projectPath": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\ivax2\\.nuget\\packages\\",
-      "outputPath": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\UnitTests\\obj\\",
+      "outputPath": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivax2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3624,11 +3624,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\BLL\\BLL.csproj": {
-              "projectPath": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\BLL\\BLL.csproj"
+            "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\BLL\\BLL.csproj": {
+              "projectPath": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\BLL\\BLL.csproj"
             },
-            "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\DAL\\DAL.csproj": {
-              "projectPath": "E:\\kpi\\.NET_web\\dotNET_WEB_lab3-4-lab4\\WebAPI\\DAL\\DAL.csproj"
+            "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\DAL\\DAL.csproj": {
+              "projectPath": "E:\\kpi\\.NET_web\\WebApi_NewsSite\\WebAPI\\DAL\\DAL.csproj"
             }
           }
         }
